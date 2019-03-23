@@ -1,0 +1,13 @@
+M:\CSAp2\wwells1\InternetCafe\InternetCafe\bin\Debug\InternetCafe.exe.config
+M:\CSAp2\wwells1\InternetCafe\InternetCafe\bin\Debug\InternetCafe.exe
+M:\CSAp2\wwells1\InternetCafe\InternetCafe\bin\Debug\InternetCafe.pdb
+M:\CSAp2\wwells1\InternetCafe\InternetCafe\bin\Debug\InternetCafe.xml
+M:\CSAp2\wwells1\InternetCafe\InternetCafe\obj\Debug\InternetCafe.vbprojAssemblyReference.cache
+M:\CSAp2\wwells1\InternetCafe\InternetCafe\obj\Debug\InternetCafe.MainForm.resources
+M:\CSAp2\wwells1\InternetCafe\InternetCafe\obj\Debug\InternetCafe.Resources.resources
+M:\CSAp2\wwells1\InternetCafe\InternetCafe\obj\Debug\InternetCafe.vbproj.GenerateResource.cache
+M:\CSAp2\wwells1\InternetCafe\InternetCafe\obj\Debug\InternetCafe.vbproj.CoreCompileInputs.cache
+M:\CSAp2\wwells1\InternetCafe\InternetCafe\obj\Debug\InternetCafe.exe
+M:\CSAp2\wwells1\InternetCafe\InternetCafe\obj\Debug\InternetCafe.xml
+M:\CSAp2\wwells1\InternetCafe\InternetCafe\obj\Debug\InternetCafe.pdb
+M:\CSAp2\wwells1\InternetCafe\InternetCafe\obj\Debug\InternetCafe.SplashScreen.resources
